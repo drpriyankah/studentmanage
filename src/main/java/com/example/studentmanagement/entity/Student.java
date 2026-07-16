@@ -15,7 +15,7 @@ public class Student {
     private String email;
 
     private String department;
-     //   private String phone;
+    private String phone;
 
 
     public Student() {
@@ -54,12 +54,12 @@ public class Student {
     }
 
      // Getter
-    /*public String getPhone() {
+    public String getPhone() {
         return phone;
     }
 
     // Setter
     public void setPhone(String phone) {
         this.phone = phone;
-    }*/
+    }
 }
